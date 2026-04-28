@@ -66,18 +66,7 @@ Production V1:
 - Reports: ReportLab PDF export
 - Deployment targets: Render, Railway, AWS
 
-## Screenshots
 
-Screenshots are not committed yet. Run the prototype or production frontend locally and add safe demo screenshots that do not contain real beneficiary data.
-
-Recommended screenshots:
-
-- Dashboard summary
-- Risk breakdown charts
-- Reviewer queue
-- Explanation engine
-- Production reviewer workflow
-- Admin fraud-weight settings
 
 ## How To Run
 

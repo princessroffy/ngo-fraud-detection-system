@@ -1,3 +1,5 @@
+<img width="1470" height="824" alt="Screenshot 2026-04-28 at 16 50 44" src="https://github.com/user-attachments/assets/ae18a9ca-40f0-4fd9-b9ef-7b351a3bd380" />
+
 # NGO Beneficiary Integrity & Fraud Detection System
 
 A data-quality and fraud-risk review system for NGOs that need to detect duplicate beneficiary records, suspicious repeated registrations, shared phone numbers, repeated emails, and other integrity issues before distributing support.

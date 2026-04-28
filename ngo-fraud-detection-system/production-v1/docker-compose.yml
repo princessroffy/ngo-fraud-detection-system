@@ -1,0 +1,21 @@
+services:
+  postgres:
+    image: postgres:16
+    container_name: ngo-fraud-postgres
+    restart: unless-stopped
+    environment:
+      POSTGRES_DB: ngo_fraud
+      POSTGRES_USER: ngo_fraud
+      POSTGRES_PASSWORD: ngo_fraud_password
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ngo_fraud -d ngo_fraud"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+volumes:
+  postgres_data:

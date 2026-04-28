@@ -1,0 +1,16 @@
+beneficiary_id,full_name,phone,email,gender,age,address,community,program_applied,date_registered,support_received
+B001,Aisha Bello,08031234567,aisha.bello@example.com,Female,34,"12 Market Road, Kano",Tarauni,Food Support,2026-01-12,Rice and Oil
+B002,Aishat Bello,08031234567,aishat.bello@example.com,Female,35,"12 Market Road, Kano",Tarauni,Cash Transfer,2026-01-13,None
+B003,Rofiyat Aliyu,08039876543,rofiyat.aliyu@example.com,Female,29,"7 Clinic Street, Kaduna",Rigasa,Medical Aid,2026-01-14,Medication
+B004,Rofiat Aliyu,08039876544,rofiyat.aliyu@example.com,Female,30,"8 Clinic Street, Kaduna",Rigasa,Medical Aid,2026-01-15,None
+B005,Chinedu Okafor,07025550111,chinedu.okafor@example.com,Male,42,"21 Unity Avenue, Enugu",New Haven,Food Support,2026-01-16,Rice
+B006,Grace Okafor,07025550111,grace.okafor@example.com,Female,39,"21 Unity Avenue, Enugu",New Haven,Food Support,2026-01-16,None
+B007,Musa Abdullahi,08160001122,musa.abdullahi@example.com,Male,51,"4 River Road, Sokoto",Gagi,Cash Transfer,2026-01-18,Cash
+B008,Musa Abdullahi,08160001122,musa.abdullahi@example.com,Male,51,"4 River Road, Sokoto",Gagi,Cash Transfer,2026-01-18,Cash
+B009,Fatima Ibrahim,09014445555,fatima.ibrahim@example.com,Female,27,"Compound 5, Old Town, Ilorin",Okelele,School Support,2026-01-19,Books
+B010,Hauwa Sani,09016667777,hauwa.sani@example.com,Female,33,"Compound 5, Old Town, Ilorin",Okelele,School Support,2026-01-19,None
+B011,Kabiru Sani,09018889999,kabiru.sani@example.com,Male,36,"Compound 5, Old Town, Ilorin",Okelele,School Support,2026-01-19,None
+B012,Blessing Eze,08037771111,blessing.eze@example.com,Female,31,"14 Palm Close, Aba",Ariaria,Medical Aid,2026-01-20,None
+B013,Blessing Eze,08037771112,blessing.eze2@example.com,Female,31,"14 Palm Close, Aba",Ariaria,Medical Aid,2026-01-21,None
+B014,Samuel John,08132223333,samuel.john@example.com,Male,44,"88 Mission Road, Jos",Bukuru,Food Support,2026-01-21,Rice
+B014,Samuel Jon,08132223334,samuel.jon@example.com,Male,44,"88 Mission Road, Jos",Bukuru,Food Support,2026-01-22,None

@@ -114,6 +114,8 @@ Multi-dataset cross-checking
 ---
 
  <img width="1220" height="712" alt="Screenshot 2026-05-04 at 13 49 38" src="https://github.com/user-attachments/assets/e330f72d-9280-4046-b9bd-eb0d81f5527b" />
+
+ 
 ## Live App:
 https://ngo-fraud-detection-system-gycqymyxgxwi9cr6ydtpvs.streamlit.app/
 
